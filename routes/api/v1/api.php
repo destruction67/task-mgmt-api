@@ -19,7 +19,6 @@ use Illuminate\Support\Facades\Route;
 //    return $request->user();
 //});
 
-
 Route::group(['prefix' => 'task-mgmt'], function () {
 //    http://localhost/task-mgmt-api/public/api/v1/task-mgmt/task
 
